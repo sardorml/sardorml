@@ -8,6 +8,7 @@ Projects that I have worked on:
 - leagueoftraders.io is a social-trading app that gamifies the crypto trading experience.
 - Created a banking application at uzumbank.uz
 - Developed a crypto currency wallet at MetaMui with messaging and send/receive crypto capabilites.
+- Created a Defi protocols analytics web app using NextJs as a side project.
 
 Visit my Portfolio page to see more of what i have worked on at [sardor.xyz](https://sardor.xyz)
 
