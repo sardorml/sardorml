@@ -6,7 +6,7 @@ I am a frontend developer but I double in backend as well. My specialty is tranf
 
 Projects that I have worked on:
 - [leagueoftraders.io](https://leagueoftraders.io) is a social-trading app that gamifies the crypto trading experience.
-- Created a banking application at [uzumbank.uz](https://uzumbank.uz) as well as contributing to other projects such as credit scoring app, marketplace and others.
+- Created a banking application at [uzumbank.uz](https://uzumbank.uz).
 - Developed a crypto currency wallet at [MetaMui](https://sovereignwallet.network/) with capabilities such as sending and reciving various cryptocurrencies, messaging and sending cryto coins to friends. All using React Native.
 - Created a Defi protocols analytics web app using NextJs as a side project. Visit at [defilens.xyz](https://defilens.xyz)
 
