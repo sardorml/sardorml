@@ -7,5 +7,6 @@ I am a frontend developer but I double in backend as well. My specialty is tranf
 Visit my Portfolio page to see what I have worked on at [sardor.xyz](https://sardor.xyz)
 
 :mortar_board: Skills:
-- React, NextJS, ReactNative/Expo, Redux, Vue, Firebase, Mongodb, Solidity, Web3
+- React, NextJS, ReactNative/Expo, Redux, Vue, Firebase, Mongodb
 - TypeScript, JavaScript, Python, C++
+- Blockchain, Web3, Solidity, Bitcoin.
