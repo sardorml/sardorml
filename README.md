@@ -7,6 +7,6 @@ I am a frontend heavy full-stack Javascript Engineer specilized in React, React 
 Visit my Portfolio page to see what I have worked on at [sardor.ceo](https://sardor.ceo)
 
 :mortar_board: Skills:
-- React, NextJS, ReactNative/Expo, Redux, Vue, Firebase, Mongodb
+- React, NextJS, ReactNative/Expo, Tanstack, Firebase/AWS, Mongodb
 - TypeScript, JavaScript, Python, C
 - Web3, Smart contracts
